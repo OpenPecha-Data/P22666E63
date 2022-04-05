@@ -1,0 +1,31 @@
+id: P22666E63
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6117
+  instance_id: http://purl.bdrc.io/resource/IE1KG6117
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ལང་ཚོའི་འབབ་ཆུ།
+  alt_title:
+    zh-hans:
+    - 才仁郎公短篇小说集
+  author: http://purl.bdrc.io/resource/P1KG6118
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    90fb354a1be745b385f515e6b92bf9d2:
+      title: པོད ༡་ལང་ཚོའི་འབབ་ཆུ།
+      volume_number: 1
+      base_file: UT1KG6117_I1KG8433_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6EE35AB6BAC32AE7
+      image_group: I1KG8433
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG6117
+  - http://purl.bdrc.io/resource/MW1KG6117
+  ocr_software: Namsel
+created_at: '2021-12-22T10:54:35.125717'
+last_modified_at: '2021-12-22T10:54:35.125724'
